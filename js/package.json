@@ -1,0 +1,26 @@
+{
+  "name": "io-klerch-alexa-wait-loop",
+  "version": "1.0.0",
+  "description": "This template helps you to process long-running transactions in Alexa skills without disconnecting from the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio player",
+    "wait",
+    "loop"
+  ],
+  "author": "Kay Lerch",
+  "license": "See license in ../LICENSE.txt",
+  "dependencies": {
+    "alexa-sdk": "^1.0.14",
+    "uuid": "^3.1.0"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/KayLerch/alexa-wait-loop-player"
+  }
+}
